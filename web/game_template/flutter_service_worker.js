@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "4af817f8de4133edacca0908f16858d5",
-"index.html": "244e7899e2dc999ed599c2edc56ab962",
-"/": "244e7899e2dc999ed599c2edc56ab962",
-"main.dart.js": "4f3a26581a79c8cfdc05b14bf6043dde",
+"index.html": "ae9bdc1f747af4ac9665a69c54201e06",
+"/": "ae9bdc1f747af4ac9665a69c54201e06",
+"main.dart.js": "856f770a5d3e5ceeb0eaf7aed6e7c2a3",
 "flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -15,9 +15,10 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "d3e8be9819697c196251e6e977053336",
 "assets/AssetManifest.json": "e07c61ed87e8a1fe5b3fa765ff440061",
-"assets/NOTICES": "a366c06a9e9e80302cd6383e6effbba0",
+"assets/NOTICES": "3c863fab53a6266605c513b6c41d497c",
 "assets/FontManifest.json": "202bfb5144bfc3359dc068bcf44cba82",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/shaders/ink_sparkle.frag": "a97494c9e78b772c1c931f95f4c8bb06",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/assets/music/Mr_Smith-Sunday_Solitude.mp3": "5fb1f2fbf4314eb5df35b62706942698",
 "assets/assets/music/README.md": "035041cfb2070f794172dedb2aa709b6",
@@ -75,7 +76,6 @@ const RESOURCES = {
 const CORE = [
   "main.dart.js",
 "index.html",
-"assets/NOTICES",
 "assets/AssetManifest.json",
 "assets/FontManifest.json"];
 // During install, the TEMP cache is populated with the application shell files.

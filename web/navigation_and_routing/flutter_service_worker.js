@@ -4,18 +4,19 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "9c336dc978923faadf6aa0ad75d0ea12",
-"index.html": "4851615d4ba60b722353fc51f66498ed",
-"/": "4851615d4ba60b722353fc51f66498ed",
-"main.dart.js": "151642e54626f902a180284b36bbcc21",
+"index.html": "7be60a7dcaadfc44f9c4777cd262cdef",
+"/": "7be60a7dcaadfc44f9c4777cd262cdef",
+"main.dart.js": "78d26a698d4f8ee8dae5ebf0d27f0209",
 "flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "5d94931eac503e97b830d7f00bdbc4ba",
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
-"assets/NOTICES": "b72622202b64fbf2841b36a3da34cbf0",
+"assets/NOTICES": "b9ad0a2ae2330ab1c6ab2670e053ee6f",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/shaders/ink_sparkle.frag": "a97494c9e78b772c1c931f95f4c8bb06",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
@@ -28,7 +29,6 @@ const RESOURCES = {
 const CORE = [
   "main.dart.js",
 "index.html",
-"assets/NOTICES",
 "assets/AssetManifest.json",
 "assets/FontManifest.json"];
 // During install, the TEMP cache is populated with the application shell files.

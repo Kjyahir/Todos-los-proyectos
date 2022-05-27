@@ -6,11 +6,12 @@ const RESOURCES = {
   "version.json": "91300a0f2f0705d3165834776406b1db",
 "index.html": "51839f812a32cce7ac40ca488295da30",
 "/": "51839f812a32cce7ac40ca488295da30",
-"main.dart.js": "3b291ab51864f4ea307b425468a6d579",
+"main.dart.js": "7179abc2baf797024875a8fca2a2d11f",
 "flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
 "assets/AssetManifest.json": "e9760aff26d7236650b16d3f72345665",
-"assets/NOTICES": "df9ff62838be7284d0a856517e7ef138",
+"assets/NOTICES": "76d9ffc7cc58219858b0eb98afd4bea4",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
+"assets/shaders/ink_sparkle.frag": "a97494c9e78b772c1c931f95f4c8bb06",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/assets/preview.png": "c097a5e6dc82ffff6c6a7ddb0a6995ec",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
@@ -24,7 +25,6 @@ const RESOURCES = {
 const CORE = [
   "main.dart.js",
 "index.html",
-"assets/NOTICES",
 "assets/AssetManifest.json",
 "assets/FontManifest.json"];
 // During install, the TEMP cache is populated with the application shell files.

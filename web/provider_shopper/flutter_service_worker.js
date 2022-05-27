@@ -6,7 +6,7 @@ const RESOURCES = {
   "version.json": "c877dd821e537c427c816dfd698efafd",
 "index.html": "32a753cd40727968c29938c1c32a2fe2",
 "/": "32a753cd40727968c29938c1c32a2fe2",
-"main.dart.js": "a5b9bda3d0bfb0207c001ede1dd46060",
+"main.dart.js": "7173735daadb1cf47fee22102538cb05",
 "flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -15,8 +15,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "5bfaa8407b6bbc7d3ec933b8243f9786",
 "assets/AssetManifest.json": "3a1a25fc13ec0260a7852156dbee4d3d",
-"assets/NOTICES": "4482a605f0cea4490bc9c64ca96f0997",
+"assets/NOTICES": "8e3328aec3a6f390cc8b09bef4cc998c",
 "assets/FontManifest.json": "11713463a3278663f446ba3377b96009",
+"assets/shaders/ink_sparkle.frag": "a97494c9e78b772c1c931f95f4c8bb06",
 "assets/fonts/Corben/Corben-Bold.ttf": "8f9921f9c52d3c25fd354d6e01f7b024",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
@@ -30,7 +31,6 @@ const RESOURCES = {
 const CORE = [
   "main.dart.js",
 "index.html",
-"assets/NOTICES",
 "assets/AssetManifest.json",
 "assets/FontManifest.json"];
 // During install, the TEMP cache is populated with the application shell files.
