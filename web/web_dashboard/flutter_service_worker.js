@@ -10,7 +10,7 @@ const RESOURCES = {
 "main.dart.js": "67bcecf9f83525a7464ba1b7219b728c",
 "version.json": "ec6a4d1e9d6a65953ce1a6b4ea1041ee",
 "firebase_init.js": "622b108cf1fb4d6527c998381e317752",
-"flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
+"flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
