@@ -21,7 +21,7 @@ const RESOURCES = {
 "assets/github_data/comments.tsv": "062efd1b6e583ce9b71fd1c655f101cd",
 "assets/github_data/stars.tsv": "f949dd28b49c2374880c22b2c8937a76",
 "assets/assets/preview.png": "f41b57a2a2dab8d74ade52f9175b4a59",
-"assets/NOTICES": "e2a729d82635ce3c4dcd05c42ecff316"
+"assets/NOTICES": "19cb02e129d517c13272b7374b939dc7"
 };
 
 // The application shell files that are downloaded before a service worker can

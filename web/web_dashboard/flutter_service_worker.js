@@ -19,7 +19,7 @@ const RESOURCES = {
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "e215f30f1509fb46491220fa39c944da",
+"assets/NOTICES": "f8a52f9ef60043b665c9addacab57535",
 "manifest.json": "f4c726512ced772dee601da2f29e868f"
 };
 

@@ -7,8 +7,8 @@ const RESOURCES = {
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "1ab8069cda27681ddf90073044f13208",
-"/": "1ab8069cda27681ddf90073044f13208",
+"index.html": "03a6d61a98432de1996562ff88c30ff2",
+"/": "03a6d61a98432de1996562ff88c30ff2",
 "main.dart.js": "091ca0f2a7946bf4456a961088808b49",
 "version.json": "4af817f8de4133edacca0908f16858d5",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
@@ -66,7 +66,7 @@ const RESOURCES = {
 "assets/assets/sfx/dsht1.mp3": "c99ece72f0957a9eaf52ade494465946",
 "assets/assets/sfx/README.md": "33033a0943d1325f78116fcf4b8a96ec",
 "assets/assets/sfx/p1.mp3": "ad28c0d29ac9e8adf9a91a46bfbfac82",
-"assets/NOTICES": "09aebb59d4cdc05c24b5bc01adb31167",
+"assets/NOTICES": "2c02f787a4b9e595c6089d5c75627f88",
 "manifest.json": "d3e8be9819697c196251e6e977053336"
 };
 
