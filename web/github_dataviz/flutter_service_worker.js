@@ -3,25 +3,25 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "main.dart.js": "9e8bba858428430b452be0ce999d8dd0",
-"version.json": "ff2d7b9d108edf1118c26085e5decea6",
-"flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
-"index.html": "51839f812a32cce7ac40ca488295da30",
-"/": "51839f812a32cce7ac40ca488295da30",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
+  "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
+"index.html": "51839f812a32cce7ac40ca488295da30",
+"/": "51839f812a32cce7ac40ca488295da30",
+"flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
+"version.json": "ff2d7b9d108edf1118c26085e5decea6",
+"assets/FontManifest.json": "d751713988987e9331980363e24189ce",
 "assets/AssetManifest.json": "9fe712ba1ba0aebba619e2e9de60fc0f",
+"assets/github_data/forks.tsv": "307c19f9166eb30ffe34a8de50ac7b57",
+"assets/github_data/stars.tsv": "f949dd28b49c2374880c22b2c8937a76",
+"assets/github_data/commits.tsv": "684e345ed4d734f5b4a890098d175b37",
 "assets/github_data/pull_requests.tsv": "583f0c3151b9234502a7037bf9735494",
 "assets/github_data/comments.tsv": "062efd1b6e583ce9b71fd1c655f101cd",
-"assets/github_data/stars.tsv": "f949dd28b49c2374880c22b2c8937a76",
-"assets/github_data/forks.tsv": "307c19f9166eb30ffe34a8de50ac7b57",
-"assets/github_data/commits.tsv": "684e345ed4d734f5b4a890098d175b37",
 "assets/github_data/contributors.json": "4f7b5d7640ca5ab67ee419df55a4833f",
 "assets/assets/preview.png": "f41b57a2a2dab8d74ade52f9175b4a59",
 "assets/NOTICES": "19cb02e129d517c13272b7374b939dc7",
-"assets/FontManifest.json": "d751713988987e9331980363e24189ce"
+"main.dart.js": "9e8bba858428430b452be0ce999d8dd0"
 };
 
 // The application shell files that are downloaded before a service worker can
