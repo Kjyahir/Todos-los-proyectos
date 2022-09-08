@@ -10,7 +10,7 @@ const RESOURCES = {
 "main.dart.js": "185c68211ea8df67f7cf505027afb8e5",
 "assets/AssetManifest.json": "9fe712ba1ba0aebba619e2e9de60fc0f",
 "assets/assets/preview.png": "f41b57a2a2dab8d74ade52f9175b4a59",
-"assets/shaders/ink_sparkle.frag": "941bb03e508e6832dc7e1bd98b54ab44",
+"assets/shaders/ink_sparkle.frag": "9f41d629ec96faa7200375d9ea662d92",
 "assets/FontManifest.json": "d751713988987e9331980363e24189ce",
 "assets/NOTICES": "b7b5612ce83710ba8ebcfc6b380b9754",
 "assets/github_data/forks.tsv": "307c19f9166eb30ffe34a8de50ac7b57",

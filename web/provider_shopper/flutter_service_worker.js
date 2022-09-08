@@ -11,7 +11,7 @@ const RESOURCES = {
 "assets/AssetManifest.json": "3a1a25fc13ec0260a7852156dbee4d3d",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/fonts/Corben/Corben-Bold.ttf": "8f9921f9c52d3c25fd354d6e01f7b024",
-"assets/shaders/ink_sparkle.frag": "941bb03e508e6832dc7e1bd98b54ab44",
+"assets/shaders/ink_sparkle.frag": "9f41d629ec96faa7200375d9ea662d92",
 "assets/FontManifest.json": "11713463a3278663f446ba3377b96009",
 "assets/NOTICES": "68c033eff1c29d44d2358e69d2a8d27a",
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",

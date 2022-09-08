@@ -11,7 +11,7 @@ const RESOURCES = {
 "assets/AssetManifest.json": "e9760aff26d7236650b16d3f72345665",
 "assets/assets/preview.png": "c097a5e6dc82ffff6c6a7ddb0a6995ec",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/shaders/ink_sparkle.frag": "941bb03e508e6832dc7e1bd98b54ab44",
+"assets/shaders/ink_sparkle.frag": "9f41d629ec96faa7200375d9ea662d92",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/NOTICES": "a52f5c95e282092b1c7859aa46c09092",
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
