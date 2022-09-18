@@ -47821,7 +47821,7 @@ this.aS()},
 vD(){var s,r=this,q=r.la$,p=r.lb$
 p=r.la$=B.d.b0(B.d.hC(p.gn(p),0,1)*255)
 if(q!==p){s=r.x3$
-p=p>0&&p<255
+p=p>0
 r.x3$=p
 if(r.A$!=null&&s!==p)r.nz()
 r.a07()

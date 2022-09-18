@@ -38402,7 +38402,7 @@ this.aV()},
 pO(){var s,r=this,q=r.ix$,p=r.iy$
 p=r.ix$=B.d.bG(B.d.jS(p.gt(p),0,1)*255)
 if(q!==p){s=r.qO$
-p=p>0&&p<255
+p=p>0
 r.qO$=p
 if(r.F$!=null&&s!==p)r.kD()
 r.P_()

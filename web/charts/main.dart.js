@@ -59873,7 +59873,7 @@ this.b9()},
 xy(){var s,r=this,q=r.bV$,p=r.eb$
 p=r.bV$=B.d.E(B.d.nJ(p.gt(p),0,1)*255)
 if(q!==p){s=r.kp$
-p=p>0&&p<255
+p=p>0
 r.kp$=p
 if(r.G$!=null&&s!==p)r.mg()
 r.a5U()

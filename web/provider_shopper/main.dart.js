@@ -48284,7 +48284,7 @@ this.aT()},
 x_(){var s,r=this,q=r.ir$,p=r.lU$
 p=r.ir$=B.d.b8(B.d.jc(p.gn(p),0,1)*255)
 if(q!==p){s=r.yz$
-p=p>0&&p<255
+p=p>0
 r.yz$=p
 if(r.C$!=null&&s!==p)r.ov()
 r.a43()

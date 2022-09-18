@@ -52931,7 +52931,7 @@ this.aG()},
 zv(){var s,r=this,q=r.ng$,p=r.nh$
 p=r.ng$=B.d.aL(B.d.h5(p.gm(p),0,1)*255)
 if(q!==p){s=r.Be$
-p=p>0&&p<255
+p=p>0
 r.Be$=p
 if(r.A$!=null&&s!==p)r.q2()
 r.aak()

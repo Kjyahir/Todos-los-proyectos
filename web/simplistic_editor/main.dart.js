@@ -45654,7 +45654,7 @@ this.aS()},
 vq(){var s,r=this,q=r.l0$,p=r.l1$
 p=r.l0$=B.d.bd(B.d.jl(p.gm(p),0,1)*255)
 if(q!==p){s=r.wH$
-p=p>0&&p<255
+p=p>0
 r.wH$=p
 if(r.B$!=null&&s!==p)r.nH()
 r.a_d()
