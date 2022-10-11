@@ -12,7 +12,7 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
 "canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
 "assets/AssetManifest.json": "e9760aff26d7236650b16d3f72345665",
-"assets/shaders/ink_sparkle.frag": "6b16a147d705beed121dfeee567d9ef4",
+"assets/shaders/ink_sparkle.frag": "0cfae77e432d12ec44627f8d9eacbc65",
 "assets/FontManifest.json": "d751713988987e9331980363e24189ce",
 "assets/assets/preview.png": "6b10c71454f2d3eb2d2d867c656607ef",
 "assets/NOTICES": "357b659c734b7a5d9d8b3bee41cb90ea",

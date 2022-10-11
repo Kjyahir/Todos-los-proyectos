@@ -59,7 +59,6 @@ pool:packages/pool/
 protobuf:packages/protobuf/
 pub_semver:packages/pub_semver/
 pubspec_parse:packages/pubspec_parse/
-quiver:packages/quiver/
 samples_index:packages/samples_index/
 sass:packages/sass/
 sass_builder:packages/sass_builder/
