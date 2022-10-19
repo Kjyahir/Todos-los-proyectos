@@ -3,26 +3,26 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "main.dart.js": "486986019418d83b918bff12b7844165",
-"index.html": "51839f812a32cce7ac40ca488295da30",
-"/": "51839f812a32cce7ac40ca488295da30",
-"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
-"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
-"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
-"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
-"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
-"assets/AssetManifest.json": "9fe712ba1ba0aebba619e2e9de60fc0f",
-"assets/shaders/ink_sparkle.frag": "0cfae77e432d12ec44627f8d9eacbc65",
-"assets/github_data/forks.tsv": "307c19f9166eb30ffe34a8de50ac7b57",
-"assets/github_data/comments.tsv": "062efd1b6e583ce9b71fd1c655f101cd",
+  "assets/assets/preview.png": "f41b57a2a2dab8d74ade52f9175b4a59",
+"assets/github_data/stars.tsv": "f949dd28b49c2374880c22b2c8937a76",
 "assets/github_data/commits.tsv": "684e345ed4d734f5b4a890098d175b37",
 "assets/github_data/contributors.json": "4f7b5d7640ca5ab67ee419df55a4833f",
-"assets/github_data/stars.tsv": "f949dd28b49c2374880c22b2c8937a76",
+"assets/github_data/forks.tsv": "307c19f9166eb30ffe34a8de50ac7b57",
+"assets/github_data/comments.tsv": "062efd1b6e583ce9b71fd1c655f101cd",
 "assets/github_data/pull_requests.tsv": "583f0c3151b9234502a7037bf9735494",
+"assets/shaders/ink_sparkle.frag": "0cfae77e432d12ec44627f8d9eacbc65",
 "assets/FontManifest.json": "d751713988987e9331980363e24189ce",
-"assets/assets/preview.png": "f41b57a2a2dab8d74ade52f9175b4a59",
 "assets/NOTICES": "b7b5612ce83710ba8ebcfc6b380b9754",
-"version.json": "ff2d7b9d108edf1118c26085e5decea6"
+"assets/AssetManifest.json": "9fe712ba1ba0aebba619e2e9de60fc0f",
+"version.json": "ff2d7b9d108edf1118c26085e5decea6",
+"index.html": "51839f812a32cce7ac40ca488295da30",
+"/": "51839f812a32cce7ac40ca488295da30",
+"main.dart.js": "486986019418d83b918bff12b7844165",
+"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
+"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
+"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
+"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
+"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797"
 };
 
 // The application shell files that are downloaded before a service worker can
