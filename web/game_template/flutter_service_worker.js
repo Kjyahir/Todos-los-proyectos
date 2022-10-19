@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"main.dart.js": "9e638f5b837cedbfaea88c99c60cf0ca",
-"index.html": "bfcd963b2f3fb128426a496e06e5228d",
-"/": "bfcd963b2f3fb128426a496e06e5228d",
+"main.dart.js": "45da09b7f05b0236ab25c402b561cfcf",
+"index.html": "66418de3b5556b2af05c7faec38eeb4f",
+"/": "66418de3b5556b2af05c7faec38eeb4f",
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "manifest.json": "d3e8be9819697c196251e6e977053336",
 "canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
@@ -63,7 +63,7 @@ const RESOURCES = {
 "assets/assets/images/settings.png": "840fd7e3337c743046bf992ef18a10b8",
 "assets/assets/Permanent_Marker/PermanentMarker-Regular.ttf": "c863f8028c2505f92540e0ba7c379002",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "6f7729dc19326eb71907caefc5b0cd33",
+"assets/NOTICES": "94c21f51b2abba86812ce5cf8b60d338",
 "version.json": "4af817f8de4133edacca0908f16858d5",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
