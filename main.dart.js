@@ -2379,12 +2379,12 @@ d2:function d2(a){this.a=a},
 jP(a,b){var s,r,q,p,o,n,m,l,k,j,i,h="removeWhere"
 if(a.length===0)return!0
 s=t.s
-r=A.p(a.split(" "),s)
+r=A.p(a.toLowerCase().split(" "),s)
 q=t.au
 p=q.a(new A.eF())
 if(!!r.fixed$length)A.a4(A.H(h))
 B.b.aC(r,p,!0)
-o=A.p(b.split(" "),s)
+o=A.p(b.toLowerCase().split(" "),s)
 s=q.a(new A.eG())
 if(!!o.fixed$length)A.a4(A.H(h))
 B.b.aC(o,s,!0)

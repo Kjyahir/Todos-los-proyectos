@@ -1,5 +1,4 @@
 _fe_analyzer_shared:packages/_fe_analyzer_shared/
-analysis_server_lib:packages/analysis_server_lib/
 analyzer:packages/analyzer/
 archive:packages/archive/
 args:packages/args/
@@ -20,7 +19,6 @@ charcode:packages/charcode/
 checked_yaml:packages/checked_yaml/
 cli_repl:packages/cli_repl/
 cli_util:packages/cli_util/
-clock:packages/clock/
 code_builder:packages/code_builder/
 collection:packages/collection/
 convert:packages/convert/
@@ -39,7 +37,6 @@ html:packages/html/
 http_multi_server:packages/http_multi_server/
 http_parser:packages/http_parser/
 image:packages/image/
-intl:packages/intl/
 io:packages/io/
 js:packages/js/
 json_annotation:packages/json_annotation/
@@ -55,6 +52,7 @@ node_preamble:packages/node_preamble/
 package_config:packages/package_config/
 path:packages/path/
 petitparser:packages/petitparser/
+pointycastle:packages/pointycastle/
 pool:packages/pool/
 protobuf:packages/protobuf/
 pub_semver:packages/pub_semver/
@@ -82,7 +80,6 @@ test:packages/test/
 test_api:packages/test_api/
 test_core:packages/test_core/
 timing:packages/timing/
-tuneup:packages/tuneup/
 tuple:packages/tuple/
 typed_data:packages/typed_data/
 vm_service:packages/vm_service/
