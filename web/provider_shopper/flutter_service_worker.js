@@ -3,27 +3,27 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "manifest.json": "8cd9b0527efb8828cd336f4a2bdd731e",
-"version.json": "c877dd821e537c427c816dfd698efafd",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
+  "main.dart.js": "618c8a104891bea739b7bc3495cf5ee6",
+"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
+"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
+"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
+"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
+"manifest.json": "8cd9b0527efb8828cd336f4a2bdd731e",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
-"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
-"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
-"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
-"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
+"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
-"index.html": "21beda80809a26b5e328d3ce4ea876f2",
-"/": "21beda80809a26b5e328d3ce4ea876f2",
-"main.dart.js": "618c8a104891bea739b7bc3495cf5ee6",
-"assets/NOTICES": "68c033eff1c29d44d2358e69d2a8d27a",
+"assets/AssetManifest.json": "3a1a25fc13ec0260a7852156dbee4d3d",
 "assets/shaders/ink_sparkle.frag": "83c076d55fdbf5e6f73f29c79926992c",
 "assets/FontManifest.json": "11713463a3278663f446ba3377b96009",
-"assets/AssetManifest.json": "3a1a25fc13ec0260a7852156dbee4d3d",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/fonts/Corben/Corben-Bold.ttf": "8f9921f9c52d3c25fd354d6e01f7b024"
+"assets/fonts/Corben/Corben-Bold.ttf": "8f9921f9c52d3c25fd354d6e01f7b024",
+"assets/NOTICES": "68c033eff1c29d44d2358e69d2a8d27a",
+"index.html": "8a3b6f651dd0014f7513a35dd5af4d30",
+"/": "8a3b6f651dd0014f7513a35dd5af4d30",
+"favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"version.json": "c877dd821e537c427c816dfd698efafd"
 };
 
 // The application shell files that are downloaded before a service worker can
