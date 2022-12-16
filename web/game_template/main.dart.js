@@ -24362,6 +24362,10 @@ s=new A.bz(new Float32Array(16))
 s.Y3()
 l=o.style
 l.setProperty("transform","","")
+l=o.style
+l.setProperty("width","100%","")
+l=o.style
+l.setProperty("height","100%","")
 l=m.b
 if(l!=null){m=o.style
 j=l.b

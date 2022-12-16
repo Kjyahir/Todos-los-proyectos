@@ -21743,6 +21743,10 @@ s=new A.bw(new Float32Array(16))
 s.So()
 l=o.style
 l.setProperty("transform","","")
+l=o.style
+l.setProperty("width","100%","")
+l=o.style
+l.setProperty("height","100%","")
 l=m.b
 if(l!=null){m=o.style
 j=l.b
