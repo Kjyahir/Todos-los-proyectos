@@ -65,8 +65,8 @@ const RESOURCES = {
 "assets/assets/music/Mr_Smith-Sonorus.mp3": "9353b7bb732002062e2c9107a95f3d2a",
 "assets/assets/Permanent_Marker/PermanentMarker-Regular.ttf": "c863f8028c2505f92540e0ba7c379002",
 "assets/NOTICES": "7aa6b5abb6a044ab054f269efc19be78",
-"index.html": "488ed6073ac2b81c4e493721a0e512f9",
-"/": "488ed6073ac2b81c4e493721a0e512f9",
+"index.html": "532d3e868fe656a641051cd9cb2d543e",
+"/": "532d3e868fe656a641051cd9cb2d543e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "version.json": "4af817f8de4133edacca0908f16858d5"
 };
