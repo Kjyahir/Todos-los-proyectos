@@ -20,8 +20,8 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/fonts/Corben/Corben-Bold.ttf": "8f9921f9c52d3c25fd354d6e01f7b024",
 "assets/NOTICES": "68c033eff1c29d44d2358e69d2a8d27a",
-"index.html": "b8fb59a987c53891c42038503e2b9660",
-"/": "b8fb59a987c53891c42038503e2b9660",
+"index.html": "0f1fa3faaa004038537e16b3bd2d9208",
+"/": "0f1fa3faaa004038537e16b3bd2d9208",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "version.json": "c877dd821e537c427c816dfd698efafd"
 };
