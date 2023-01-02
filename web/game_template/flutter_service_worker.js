@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "main.dart.js": "23675c85a5a9aec34db7311495cd8c34",
+  "main.dart.js": "5a87df073e49e45ac82d6b98057e9b82",
 "canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
 "canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
 "canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
@@ -64,9 +64,9 @@ const RESOURCES = {
 "assets/assets/music/Mr_Smith-Sunday_Solitude.mp3": "5fb1f2fbf4314eb5df35b62706942698",
 "assets/assets/music/Mr_Smith-Sonorus.mp3": "9353b7bb732002062e2c9107a95f3d2a",
 "assets/assets/Permanent_Marker/PermanentMarker-Regular.ttf": "c863f8028c2505f92540e0ba7c379002",
-"assets/NOTICES": "7aa6b5abb6a044ab054f269efc19be78",
-"index.html": "e781b9d6a59e9ad0764c2dc91ab8407a",
-"/": "e781b9d6a59e9ad0764c2dc91ab8407a",
+"assets/NOTICES": "e381e004652f85eeae79cbfc80e581b3",
+"index.html": "c97cebec7c086d8cbc2f5e3c67a555e1",
+"/": "c97cebec7c086d8cbc2f5e3c67a555e1",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "version.json": "4af817f8de4133edacca0908f16858d5"
 };
