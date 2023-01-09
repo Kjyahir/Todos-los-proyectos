@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "main.dart.js": "c7081ced2561fb52aca3450ac1d01169",
+  "main.dart.js": "57c45a88f277e9d69935aaea9bde0a37",
 "canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
 "canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
 "canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
@@ -23,8 +23,8 @@ const RESOURCES = {
 "assets/assets/eat_new_orleans_sm.jpg": "75ea180c478714d6fde3d89ac35de62a",
 "assets/assets/eat_cape_town_sm.jpg": "7d0bc0ee785a2c3cc4064fae0834fadf",
 "assets/NOTICES": "dedc72488215b822c5216df45bb6dde8",
-"index.html": "e8daa1b831eb2b1f2d8504725287abf6",
-"/": "e8daa1b831eb2b1f2d8504725287abf6",
+"index.html": "fcf73c2fe98cb2924b13766774c2c30a",
+"/": "fcf73c2fe98cb2924b13766774c2c30a",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "version.json": "42906adb43c8fac5e6348de24f5c28d0"
 };
