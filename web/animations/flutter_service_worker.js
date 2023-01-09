@@ -23,8 +23,8 @@ const RESOURCES = {
 "assets/assets/eat_new_orleans_sm.jpg": "75ea180c478714d6fde3d89ac35de62a",
 "assets/assets/eat_cape_town_sm.jpg": "7d0bc0ee785a2c3cc4064fae0834fadf",
 "assets/NOTICES": "dedc72488215b822c5216df45bb6dde8",
-"index.html": "dbfc19b0b59fc4da4ddbd148a41f9f91",
-"/": "dbfc19b0b59fc4da4ddbd148a41f9f91",
+"index.html": "16643853147beb41d3c67bba15430077",
+"/": "16643853147beb41d3c67bba15430077",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "version.json": "42906adb43c8fac5e6348de24f5c28d0"
 };
