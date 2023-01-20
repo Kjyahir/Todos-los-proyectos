@@ -21199,7 +21199,7 @@ return r},
 aJx(a){switch(a.a){case 2:return self.google.maps.MapTypeId.SATELLITE
 case 3:return self.google.maps.MapTypeId.TERRAIN
 case 4:return self.google.maps.MapTypeId.HYBRID
-case 1:case 0:default:return self.google.maps.MapTypeId.ROADMAP}},
+case 1:case 0:return self.google.maps.MapTypeId.ROADMAP}return self.google.maps.MapTypeId.ROADMAP},
 aJP(a){return new self.google.maps.LatLng(a.gafR(a),a.gag6(a))},
 axZ(a){var s,r,q,p,o,n=a.w,m=n.a
 if(m==null)m=""
