@@ -75924,7 +75924,8 @@ p=q.c
 p.j0(p,new A.a7c(A.lI(r,t.N)))
 q.d=q.d.Po(0,A.awm(s,p))},
 gabf(){var s=this.a
-return s.length===1&&B.b.gM(s).d!=null}}
+return s.length===1&&B.b.gM(s).d!=null},
+k(a){return"RouteMatchList("+this.b+")"}}
 A.a7b.prototype={
 $1(a){return!0},
 $S:470}

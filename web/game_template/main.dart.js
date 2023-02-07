@@ -82274,7 +82274,8 @@ p=q.c
 p.jP(p,new A.abE(A.my(r,t.N)))
 q.d=q.d.Ue(0,A.aCv(s,p))},
 gaiI(){var s=this.a
-return s.length===1&&B.b.gL(s).d!=null}}
+return s.length===1&&B.b.gL(s).d!=null},
+k(a){return"RouteMatchList("+this.b+")"}}
 A.abD.prototype={
 $1(a){return!(a instanceof A.kG)},
 $S:478}

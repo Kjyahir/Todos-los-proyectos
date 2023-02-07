@@ -79877,7 +79877,8 @@ p=q.c
 p.ii(p,new A.a8O(A.m9(r,t.N)))
 q.d=q.d.Sl(0,A.azd(s,p))},
 gagB(){var s=this.a
-return s.length===1&&B.c.gN(s).d!=null}}
+return s.length===1&&B.c.gN(s).d!=null},
+k(a){return"RouteMatchList("+this.b+")"}}
 A.a8N.prototype={
 $1(a){return!0},
 $S:456}
