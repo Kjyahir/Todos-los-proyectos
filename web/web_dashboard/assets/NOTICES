@@ -6163,6 +6163,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 dart_style
 glob
+http
 http_parser
 matcher
 path
@@ -7800,6 +7801,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
 flutter_lints
+google_identity_services_web
 google_sign_in
 google_sign_in_android
 google_sign_in_ios

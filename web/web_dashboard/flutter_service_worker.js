@@ -13,12 +13,12 @@ const RESOURCES = {
 "flutter.js": "1cfe996e845b3a8a33f57607e8b09ee4",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/NOTICES": "07801006f1d0b51cff397008d8bb37f9",
+"assets/NOTICES": "0c0034ccdbaec37e7123be02ade3cf74",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "index.html": "18aaf2e497fd84025c8e0d56b518d072",
 "/": "18aaf2e497fd84025c8e0d56b518d072",
-"main.dart.js": "afcdda9ebc62367f1e91707e4135e558",
+"main.dart.js": "c3fb7282bf10526b6cb23b8f05bb0cef",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1"
 };
