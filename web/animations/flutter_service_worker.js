@@ -3,28 +3,28 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
-"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
-"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
-"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"assets/NOTICES": "d0fd2788b738b019b40ab285565337f4",
-"assets/assets/eat_cape_town_sm.jpg": "7d0bc0ee785a2c3cc4064fae0834fadf",
-"assets/assets/eat_sydney_sm.jpg": "3804fd7d8268200b04ef598820712ec9",
-"assets/assets/eat_new_orleans_sm.jpg": "75ea180c478714d6fde3d89ac35de62a",
-"assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
-"assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/AssetManifest.json": "5e3e3895b2a374d4f0977ae4b3a813b6",
+  "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "main.dart.js": "eafb7874040e0b432232ff5a3abdb28a",
+"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
+"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
+"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
+"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
+"favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"version.json": "42906adb43c8fac5e6348de24f5c28d0",
 "manifest.json": "68625bab86590a7ebe9e384ad0eedabd",
-"flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
-"index.html": "e4ad32831c7617bb73c3c09e98e3100a",
-"/": "e4ad32831c7617bb73c3c09e98e3100a",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
-"icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
+"assets/AssetManifest.json": "5e3e3895b2a374d4f0977ae4b3a813b6",
+"assets/assets/eat_new_orleans_sm.jpg": "75ea180c478714d6fde3d89ac35de62a",
+"assets/assets/eat_sydney_sm.jpg": "3804fd7d8268200b04ef598820712ec9",
+"assets/assets/eat_cape_town_sm.jpg": "7d0bc0ee785a2c3cc4064fae0834fadf",
+"assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
+"assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
+"assets/NOTICES": "d0fd2788b738b019b40ab285565337f4",
+"index.html": "a2b76689ca74de6593d0f2802d760b45",
+"/": "a2b76689ca74de6593d0f2802d760b45",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"version.json": "42906adb43c8fac5e6348de24f5c28d0"
+"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
+"icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
+"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c"
 };
 
 // The application shell files that are downloaded before a service worker can
