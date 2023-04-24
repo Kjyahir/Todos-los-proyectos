@@ -23192,37 +23192,35 @@ if(a.length>=b+1){s=t.wh.a(a[b])
 if(s!=null){r=J.aw(s)
 q=new self.google.maps.Size(A.ey(r.h(s,0)),A.ey(r.h(s,1)))}else q=null}else q=null
 return q},
-aF8(a,b){var s,r,q,p,o,n,m,l={},k=b==null?null:b.getPosition()
-if(k==null){k=a.x
-k=new self.google.maps.LatLng(k.a,k.b)}s=J.bd(l)
-s.sbJ(l,k)
-k=a.w.a
-s.sAq(l,A.aGF(k==null?"":k))
-s.sjg(l,a.Q)
-s.siA(l,a.z)
-s.ske(l,a.b)
-s.syG(l,a.e)
-k=a.r.a
-if(J.e(k[0],"fromAssetImage")){r={}
-q=$.G_
+aF8(a,b){var s,r,q,p,o,n,m={},l=a.x,k=J.bd(m)
+k.sbJ(m,new self.google.maps.LatLng(l.a,l.b))
+l=a.w.a
+k.sAq(m,A.aGF(l==null?"":l))
+k.sjg(m,a.Q)
+k.siA(m,a.z)
+k.ske(m,a.b)
+k.syG(m,a.e)
+l=a.r.a
+if(J.e(l[0],"fromAssetImage")){s={}
+r=$.G_
+r.toString
+q=l[1]
 q.toString
-p=k[1]
-p.toString
-o=J.bd(r)
-o.sv5(r,q.v9(A.b1(p)))
-n=A.aEZ(k,3)
-if(n!=null){o.sdI(r,n)
-o.sqR(r,n)}}else if(J.e(k[0],"fromBytes")){q=k[1]
-q.toString
-m=A.aJK([t.Cm.a(q)])
-r={}
-q=J.bd(r)
-q.sv5(r,(self.URL||self.webkitURL).createObjectURL(m))
-n=A.aEZ(k,2)
-if(n!=null){q.sdI(r,n)
-q.sqR(r,n)}}else r=null
-s.szg(l,r)
-return l},
+p=J.bd(s)
+p.sv5(s,r.v9(A.b1(q)))
+o=A.aEZ(l,3)
+if(o!=null){p.sdI(s,o)
+p.sqR(s,o)}}else if(J.e(l[0],"fromBytes")){r=l[1]
+r.toString
+n=A.aJK([t.Cm.a(r)])
+s={}
+r=J.bd(s)
+r.sv5(s,(self.URL||self.webkitURL).createObjectURL(n))
+o=A.aEZ(l,2)
+if(o!=null){r.sdI(s,o)
+r.sqR(s,o)}}else s=null
+k.szg(m,s)
+return m},
 aEE(a){var s,r,q={},p=J.bd(q)
 p.sjn(q,A.YW(a.gjn(a)))
 p.soc(q,A.YX(a.gjn(a)))
