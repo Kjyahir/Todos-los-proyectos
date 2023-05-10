@@ -381,6 +381,10 @@ images/web_dashboard2.png
 images/web_dashboard2_thumb.png
 images/web_dashboard3.png
 images/web_dashboard3_thumb.png
+images/web_embedding1.png
+images/web_embedding1_thumb.png
+images/web_embedding2.png
+images/web_embedding2_thumb.png
 implement_swipe_to_dismiss.html
 index.html
 infinite_list.html
@@ -599,6 +603,7 @@ use_a_custom_font.html
 use_lists.html
 use_themes_to_share_colors_and_font_styles.html
 web_dashboard.html
+web_embedding.html
 work_with_cached_images.html
 work_with_long_lists.html
 work_with_tabs.html
