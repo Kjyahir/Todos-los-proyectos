@@ -393,12 +393,7 @@ mock_dependencies_using_mockito.html
 navigate_to_a_new_screen_and_back.html
 navigate_with_named_routes.html
 navigation_and_routing.html
-packages/$sdk/_internal/strong.sum
-packages/$sdk/dev_compiler/kernel/amd/dart_sdk.js
-packages/$sdk/dev_compiler/kernel/amd/require.js
-packages/$sdk/dev_compiler/kernel/common/dart_sdk.js
-packages/$sdk/dev_compiler/kernel/common/run.js
-packages/$sdk/dev_compiler/kernel/es6/dart_sdk.js
+packages/$sdk/dev_compiler/amd/require.js
 packages/$sdk/dev_compiler/web/dart_stack_trace_mapper.js
 packages/_fe_analyzer_shared/src/parser/parser.md
 packages/analyzer/fix_data.yaml
