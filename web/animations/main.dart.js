@@ -26426,7 +26426,7 @@ $1(a){var s=$.dc
 s=(s==null?$.dc=A.hX(self.window.flutterConfiguration):s).b
 if(s==null)s=null
 else{s=s.canvasKitBaseUrl
-if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/d44b5a94c976fbb65815374f61ab5392a220b084/":s)+a},
+if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/b4fb11214dd2dda6ce012dd98ea498e9e8b91262/":s)+a},
 $S:87}
 A.akH.prototype={
 $1(a){this.a.remove()
@@ -55267,7 +55267,7 @@ EF(a){var s,r={},q=a.a
 if(q==null)q=$.Xx()
 r.a=r.b=null
 s=t.P
-A.aCo(q.af7("AssetManifest.bin",A.aJ0(),t.jo).bo(new A.Y2(r,this,a,q),s),new A.Y3(r),s,t.K)
+A.aCo(q.af7("AssetManifest.smcbin",A.aJ0(),t.jo).bo(new A.Y2(r,this,a,q),s),new A.Y3(r),s,t.K)
 s=r.a
 if(s!=null)return s
 s=new A.ao($.al,t.Lv)
