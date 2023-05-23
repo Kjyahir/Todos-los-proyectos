@@ -34,6 +34,7 @@ glob:packages/glob/
 graphs:packages/graphs/
 grinder:packages/grinder/
 html:packages/html/
+http:packages/http/
 http_multi_server:packages/http_multi_server/
 http_parser:packages/http_parser/
 image:packages/image/
