@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"index.html": "e3a020a44be2283c16302fe7b3fbacb4",
-"/": "e3a020a44be2283c16302fe7b3fbacb4",
+const RESOURCES = {"index.html": "35394f5970eed6ab81cc42d7446da588",
+"/": "35394f5970eed6ab81cc42d7446da588",
 "assets/assets/music/Mr_Smith-Sonorus.mp3": "9353b7bb732002062e2c9107a95f3d2a",
 "assets/assets/music/Mr_Smith-Sunday_Solitude.mp3": "5fb1f2fbf4314eb5df35b62706942698",
 "assets/assets/music/README.md": "035041cfb2070f794172dedb2aa709b6",
@@ -52,7 +52,7 @@ const RESOURCES = {"index.html": "e3a020a44be2283c16302fe7b3fbacb4",
 "assets/assets/sfx/kss1.mp3": "fd0664b62bb9205c1ba6868d2d185897",
 "assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "57d849d738900cfd590e9adc7e208250",
-"assets/NOTICES": "c022412701e9404883cd263e2ab15a6a",
+"assets/NOTICES": "be95829790449ce111e19636256bd3ba",
 "assets/fonts/MaterialIcons-Regular.otf": "29e5a7eaed1c20e7f103c225e4749fa4",
 "assets/AssetManifest.json": "4989b9aaf0e6dcb6d8fe079daeef9efd",
 "assets/FontManifest.json": "202bfb5144bfc3359dc068bcf44cba82",
