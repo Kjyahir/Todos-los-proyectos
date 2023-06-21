@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"index.html": "35394f5970eed6ab81cc42d7446da588",
-"/": "35394f5970eed6ab81cc42d7446da588",
+const RESOURCES = {"index.html": "8d0a5dd7fa9a169c806483d09a90c811",
+"/": "8d0a5dd7fa9a169c806483d09a90c811",
 "assets/assets/music/Mr_Smith-Sonorus.mp3": "9353b7bb732002062e2c9107a95f3d2a",
 "assets/assets/music/Mr_Smith-Sunday_Solitude.mp3": "5fb1f2fbf4314eb5df35b62706942698",
 "assets/assets/music/README.md": "035041cfb2070f794172dedb2aa709b6",
