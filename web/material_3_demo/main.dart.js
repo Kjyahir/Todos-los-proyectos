@@ -101064,22 +101064,19 @@ A.aCh.prototype={
 $0(){return A.b16()},
 $S:56}
 A.aCg.prototype={
-$0(){var s,r,q,p=$.aQp(),o=window
-o.toString
+$0(){var s,r,q=$.aQp(),p=window
+p.toString
 s=$.aGE()
-r=new A.alc(o)
+r=new A.alc(p)
 $.aCP().p(0,r,s)
-o=o.navigator
-q=o.vendor
-q.toString
-o=o.appVersion
-o.toString
-r.b=B.d.m(q,"Apple")&&B.d.m(o,"Version")
+p=p.navigator.userAgent
+p.toString
+r.b=B.d.m(p,"Safari")&&!B.d.m(p,"Chrome")
 A.aV7(r,s,!0)
 $.aXy=r
 $.aQn()
 $.aD1().atD("__url_launcher::link",A.b14(),!1)
-$.aNS=p.gapV()},
+$.aNS=q.gapV()},
 $S:21};(function aliases(){var s=A.ZO.prototype
 s.a4A=s.ae
 s.a4G=s.c7
