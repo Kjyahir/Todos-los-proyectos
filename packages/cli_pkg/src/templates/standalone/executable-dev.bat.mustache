@@ -1,0 +1,5 @@
+@echo off
+
+set SCRIPTPATH=%~dp0
+set arguments=%*
+"{{{dart}}}" --enable-asserts {{{environment-constants}}} "%SCRIPTPATH%\{{{executable}}}" %arguments%
