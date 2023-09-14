@@ -27,6 +27,7 @@ coverage:packages/coverage/
 crypto:packages/crypto/
 csslib:packages/csslib/
 dart_style:packages/dart_style/
+ffi:packages/ffi/
 file:packages/file/
 fixnum:packages/fixnum/
 flutter_lints:packages/flutter_lints/
@@ -49,6 +50,7 @@ matcher:packages/matcher/
 mdc_web:packages/mdc_web/
 meta:packages/meta/
 mime:packages/mime/
+native_synchronization:packages/native_synchronization/
 node_interop:packages/node_interop/
 node_preamble:packages/node_preamble/
 package_config:packages/package_config/
