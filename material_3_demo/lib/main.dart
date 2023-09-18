@@ -31,8 +31,7 @@ class _AppState extends State<App> {
   bool get useLightMode {
     switch (themeMode) {
       case ThemeMode.system:
-        return View.of(context).platformDispatcher.platformBrightness ==
-            Brightness.light;
+        return MediaQuery.platformBrightnessOf(context) == Brightness.light;
       case ThemeMode.light:
         return true;
       case ThemeMode.dark:
