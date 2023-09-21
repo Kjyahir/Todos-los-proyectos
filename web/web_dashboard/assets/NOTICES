@@ -7171,6 +7171,7 @@ google_sign_in_android
 google_sign_in_ios
 google_sign_in_platform_interface
 google_sign_in_web
+pigeon
 plugin_platform_interface
 
 Copyright 2013 The Flutter Authors. All rights reserved.
