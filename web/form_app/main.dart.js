@@ -84802,7 +84802,7 @@ s=A.fo(B.d.VW(B.d.jT(o,"/")&&o!=="/"&&!B.d.m(o,"?")?B.d.V(o,0,o.length-1):o,"/?"
 r=t.N
 q=A.A(r,r)
 p=this.Mu(s.gcV(s),"",q,s.gcV(s),this.a)
-if(p==null)return new A.d1(B.eg,B.cx,s,null,new A.rz("no routes for location: "+s.k(0)),A.zI(B.eg))
+if(p==null)return new A.d1(B.eg,B.cx,s,b,new A.rz("no routes for location: "+s.k(0)),A.zI(B.eg))
 return new A.d1(p,q,s,b,null,A.zI(p))},
 ajl(a){return this.GJ(a,null)},
 Mu(a,b,c,d,e){var s,r,q,p,o,n,m,l,k=A.b0("subPathParameters"),j=e.length,i=t.N,h=k.a,g=0
