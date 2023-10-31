@@ -22185,7 +22185,7 @@ $1(a){var s=$.bu
 s=(s==null?$.bu=A.dL(self.window.flutterConfiguration):s).b
 if(s==null)s=null
 else{s=s.canvasKitBaseUrl
-if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/767d8c75e898091b925519803830fc2721658d07/":s)+a},
+if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/0545f8705df301877d787107bac1a6e9fc9ee1ad/":s)+a},
 $S:130}
 A.a6m.prototype={
 $1(a){this.a.remove()
@@ -68507,7 +68507,7 @@ B.xx=function() {
     }
   }
   function getUnknownTagGenericBrowser(object, tag) {
-    if (self.HTMLElement && object instanceof HTMLElement) return "HTMLElement";
+    if (object instanceof HTMLElement) return "HTMLElement";
     return getUnknownTag(object, tag);
   }
   function prototypeForTag(tag) {
@@ -68518,7 +68518,7 @@ B.xx=function() {
     return constructor.prototype;
   }
   function discriminator(tag) { return null; }
-  var isBrowser = typeof navigator == "object";
+  var isBrowser = typeof HTMLElement == "function";
   return {
     getTag: getTag,
     getUnknownTag: isBrowser ? getUnknownTagGenericBrowser : getUnknownTag,
@@ -68528,9 +68528,10 @@ B.xx=function() {
 B.xC=function(getTagFallback) {
   return function(hooks) {
     if (typeof navigator != "object") return hooks;
-    var ua = navigator.userAgent;
-    if (ua.indexOf("DumpRenderTree") >= 0) return hooks;
-    if (ua.indexOf("Chrome") >= 0) {
+    var userAgent = navigator.userAgent;
+    if (typeof userAgent != "string") return hooks;
+    if (userAgent.indexOf("DumpRenderTree") >= 0) return hooks;
+    if (userAgent.indexOf("Chrome") >= 0) {
       function confirm(p) {
         return typeof window == "object" && window[p] && window[p].name == p;
       }
@@ -68543,26 +68544,10 @@ B.xy=function(hooks) {
   if (typeof dartExperimentalFixupGetTag != "function") return hooks;
   hooks.getTag = dartExperimentalFixupGetTag(hooks.getTag);
 }
-B.xz=function(hooks) {
-  var getTag = hooks.getTag;
-  var prototypeForTag = hooks.prototypeForTag;
-  function getTagFixed(o) {
-    var tag = getTag(o);
-    if (tag == "Document") {
-      if (!!o.xmlVersion) return "!Document";
-      return "!HTMLDocument";
-    }
-    return tag;
-  }
-  function prototypeForTagFixed(tag) {
-    if (tag == "Document") return null;
-    return prototypeForTag(tag);
-  }
-  hooks.getTag = getTagFixed;
-  hooks.prototypeForTag = prototypeForTagFixed;
-}
 B.xB=function(hooks) {
-  var userAgent = typeof navigator == "object" ? navigator.userAgent : "";
+  if (typeof navigator != "object") return hooks;
+  var userAgent = navigator.userAgent;
+  if (typeof userAgent != "string") return hooks;
   if (userAgent.indexOf("Firefox") == -1) return hooks;
   var getTag = hooks.getTag;
   var quickMap = {
@@ -68579,7 +68564,9 @@ B.xB=function(hooks) {
   hooks.getTag = getTagFirefox;
 }
 B.xA=function(hooks) {
-  var userAgent = typeof navigator == "object" ? navigator.userAgent : "";
+  if (typeof navigator != "object") return hooks;
+  var userAgent = navigator.userAgent;
+  if (typeof userAgent != "string") return hooks;
   if (userAgent.indexOf("Trident/") == -1) return hooks;
   var getTag = hooks.getTag;
   var quickMap = {
@@ -68606,6 +68593,24 @@ B.xA=function(hooks) {
   }
   hooks.getTag = getTagIE;
   hooks.prototypeForTag = prototypeForTagIE;
+}
+B.xz=function(hooks) {
+  var getTag = hooks.getTag;
+  var prototypeForTag = hooks.prototypeForTag;
+  function getTagFixed(o) {
+    var tag = getTag(o);
+    if (tag == "Document") {
+      if (!!o.xmlVersion) return "!Document";
+      return "!HTMLDocument";
+    }
+    return tag;
+  }
+  function prototypeForTagFixed(tag) {
+    if (tag == "Document") return null;
+    return prototypeForTag(tag);
+  }
+  hooks.getTag = getTagFixed;
+  hooks.prototypeForTag = prototypeForTagFixed;
 }
 B.jC=function(hooks) { return hooks; }
 
