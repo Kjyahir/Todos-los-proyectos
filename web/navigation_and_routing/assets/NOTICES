@@ -7069,6 +7069,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
 flutter_lints
+go_router
 plugin_platform_interface
 url_launcher
 url_launcher_android
