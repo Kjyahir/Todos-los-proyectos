@@ -299,12 +299,6 @@ images/isolate2.png
 images/isolate2_thumb.png
 images/isolate3.png
 images/isolate3_thumb.png
-images/jsonexample1.png
-images/jsonexample1_thumb.png
-images/jsonexample2.png
-images/jsonexample2_thumb.png
-images/jsonexample3.png
-images/jsonexample3_thumb.png
 images/level_selector.png
 images/level_selector_thumb.png
 images/loading_screen.png
@@ -391,7 +385,6 @@ implement_swipe_to_dismiss.html
 index.html
 infinite_list.html
 isolate_example.html
-jsonexample.html
 main.dart.js
 make_authenticated_requests.html
 material_3.html
