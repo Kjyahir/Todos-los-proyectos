@@ -89,6 +89,7 @@ timing:packages/timing/
 typed_data:packages/typed_data/
 vm_service:packages/vm_service/
 watcher:packages/watcher/
+web:packages/web/
 web_socket_channel:packages/web_socket_channel/
 webdriver:packages/webdriver/
 webkit_inspection_protocol:packages/webkit_inspection_protocol/
