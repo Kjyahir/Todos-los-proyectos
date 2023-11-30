@@ -25,7 +25,7 @@ const RESOURCES = {"manifest.json": "f4c726512ced772dee601da2f29e868f",
 "canvaskit/canvaskit.wasm": "64edb91684bdb3b879812ba2e48dd487",
 "canvaskit/chromium/canvaskit.js": "0ae8bbcc58155679458a0f7a00f66873",
 "canvaskit/chromium/canvaskit.wasm": "f87e541501c96012c252942b6b75d1ea",
-"main.dart.js": "4df980e09b53605d85ebb7831bac9d0b",
+"main.dart.js": "d53d2e0574c04c909bf8543b4cfa715d",
 "firebase_init.js": "622b108cf1fb4d6527c998381e317752"};
 // The application shell files that are downloaded before a service worker can
 // start.
