@@ -25,17 +25,14 @@ collection:packages/collection/
 convert:packages/convert/
 coverage:packages/coverage/
 crypto:packages/crypto/
-csslib:packages/csslib/
 dart_style:packages/dart_style/
 ffi:packages/ffi/
 file:packages/file/
 fixnum:packages/fixnum/
-flutter_lints:packages/flutter_lints/
 frontend_server_client:packages/frontend_server_client/
 glob:packages/glob/
 graphs:packages/graphs/
 grinder:packages/grinder/
-html:packages/html/
 http:packages/http/
 http_multi_server:packages/http_multi_server/
 http_parser:packages/http_parser/
@@ -79,7 +76,6 @@ stack_trace:packages/stack_trace/
 stream_channel:packages/stream_channel/
 stream_transform:packages/stream_transform/
 string_scanner:packages/string_scanner/
-sync_http:packages/sync_http/
 term_glyph:packages/term_glyph/
 test:packages/test/
 test_api:packages/test_api/
@@ -91,7 +87,6 @@ vm_service:packages/vm_service/
 watcher:packages/watcher/
 web:packages/web/
 web_socket_channel:packages/web_socket_channel/
-webdriver:packages/webdriver/
 webkit_inspection_protocol:packages/webkit_inspection_protocol/
 xml:packages/xml/
 yaml:packages/yaml/
