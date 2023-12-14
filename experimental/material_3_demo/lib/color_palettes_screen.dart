@@ -886,13 +886,13 @@ class ColorGroup extends StatelessWidget {
         child: small
             ? GridView.count(
                 crossAxisCount: axisCount,
-                crossAxisSpacing: 1,
+                crossAxisSpacing: 3,
                 shrinkWrap: true,
                 // childAspectRatio: children.length / 1,
                 // childAspectRatio: (4 / axisCount) * axisCount
 
                 // when 4 then 4, when 1 then 16
-                childAspectRatio: 16 / axisCount,
+                childAspectRatio: 1,
                 physics: const NeverScrollableScrollPhysics(),
                 children: children,
               )
@@ -934,6 +934,7 @@ class ColorChip extends StatelessWidget {
 
     return Container(
       decoration: BoxDecoration(
+        borderRadius: BorderRadius.circular(100),
         color: color,
         border: small
             ? Border.all(

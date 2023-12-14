@@ -83,6 +83,33 @@ class Home extends StatefulWidget {
   State<Home> createState() => _HomeState();
 }
 
+class SideSheet extends StatelessWidget {
+  const SideSheet({
+    //
+    required this.handleColorRoleChange,
+    required this.lightColorScheme,
+    super.key,
+  });
+
+  final ConfigColorSchemeCallback handleColorRoleChange;
+  final ColorScheme lightColorScheme;
+
+  @override
+  Widget build(BuildContext context) {
+    return Column(
+      children: [
+        const Text("Color Scheme"),
+        ColorSchemeView(
+          small: true,
+          handleColorRoleChange: handleColorRoleChange,
+          colorScheme: lightColorScheme,
+          brightness: Brightness.light,
+        ),
+      ],
+    );
+  }
+}
+
 class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
   final GlobalKey<ScaffoldState> scaffoldKey = GlobalKey<ScaffoldState>();
   late final AnimationController controller;
@@ -156,15 +183,31 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
     switch (screenSelected) {
       case ScreenSelected.component:
         return Expanded(
-          child: OneTwoTransition(
-            animation: railAnimation,
-            one: FirstComponentList(
-                showNavBottomBar: showNavBarExample,
-                scaffoldKey: scaffoldKey,
-                showSecondList: showMediumSizeLayout || showLargeSizeLayout),
-            two: SecondComponentList(
-              scaffoldKey: scaffoldKey,
-            ),
+          child: Stack(
+            children: [
+              OneTwoTransition(
+                animation: railAnimation,
+                one: FirstComponentList(
+                    showNavBottomBar: showNavBarExample,
+                    scaffoldKey: scaffoldKey,
+                    showSecondList:
+                        showMediumSizeLayout || showLargeSizeLayout),
+                two: SecondComponentList(
+                  scaffoldKey: scaffoldKey,
+                ),
+              ),
+              Positioned(
+                right: 0,
+                child: Container(
+                  width: 250,
+                  color: Theme.of(context).colorScheme.surface,
+                  child: SideSheet(
+                    handleColorRoleChange: widget.handleColorRoleChange,
+                    lightColorScheme: widget.lightColors,
+                  ),
+                ),
+              )
+            ],
           ),
         );
       case ScreenSelected.color:
