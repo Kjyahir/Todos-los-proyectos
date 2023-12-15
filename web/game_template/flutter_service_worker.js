@@ -5,8 +5,8 @@ const CACHE_NAME = 'flutter-app-cache';
 
 const RESOURCES = {"flutter.js": "7d69e653079438abfbb24b82a655b0a4",
 "manifest.json": "d3e8be9819697c196251e6e977053336",
-"index.html": "03ac7a129623a17474a6ece2a800d5a5",
-"/": "03ac7a129623a17474a6ece2a800d5a5",
+"index.html": "858818da78c06abf6b14be0b526d7273",
+"/": "858818da78c06abf6b14be0b526d7273",
 "assets/AssetManifest.bin": "761912449bbe20af7dfbf06dcfc9616e",
 "assets/fonts/MaterialIcons-Regular.otf": "2a5a36a9b82c9c429e9212d43eb01b78",
 "assets/assets/music/Mr_Smith-Sonorus.mp3": "9353b7bb732002062e2c9107a95f3d2a",
