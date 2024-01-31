@@ -24,7 +24,7 @@ const RESOURCES = {"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "firebase_init.js": "622b108cf1fb4d6527c998381e317752",
-"main.dart.js": "73f1e0dfe9d567be5e727b28013d55c1",
+"main.dart.js": "8ea0d1e768c374189871a951f0b2a6ab",
 "flutter.js": "7d69e653079438abfbb24b82a655b0a4",
 "version.json": "ec6a4d1e9d6a65953ce1a6b4ea1041ee"};
 // The application shell files that are downloaded before a service worker can

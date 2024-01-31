@@ -57,8 +57,8 @@ const RESOURCES = {"assets/assets/images/2x/back.png": "85cda8f41a13153d6f3fb1c4
 "assets/fonts/MaterialIcons-Regular.otf": "2a5a36a9b82c9c429e9212d43eb01b78",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "manifest.json": "d3e8be9819697c196251e6e977053336",
-"index.html": "1030da9334c5ad257ac000ba2b6ff783",
-"/": "1030da9334c5ad257ac000ba2b6ff783",
+"index.html": "6bc208115c28e7c24c7000076d9ecdd7",
+"/": "6bc208115c28e7c24c7000076d9ecdd7",
 "canvaskit/chromium/canvaskit.wasm": "143af6ff368f9cd21c863bfa4274c406",
 "canvaskit/chromium/canvaskit.js": "0ae8bbcc58155679458a0f7a00f66873",
 "canvaskit/skwasm.wasm": "2fc47c0a0c3c7af8542b601634fe9674",
@@ -71,7 +71,7 @@ const RESOURCES = {"assets/assets/images/2x/back.png": "85cda8f41a13153d6f3fb1c4
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"main.dart.js": "8d1c36963a97141446d889acadec65c2",
+"main.dart.js": "4da4493a0f4d5d04071beac632b147c2",
 "flutter.js": "7d69e653079438abfbb24b82a655b0a4",
 "version.json": "4af817f8de4133edacca0908f16858d5"};
 // The application shell files that are downloaded before a service worker can

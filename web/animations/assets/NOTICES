@@ -6463,6 +6463,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
 flutter_lints
+flutter_shaders
 go_router
 
 Copyright 2013 The Flutter Authors. All rights reserved.
