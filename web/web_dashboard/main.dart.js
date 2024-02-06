@@ -47573,21 +47573,33 @@ k(a){return B.Ud.k(0)+"("+this.a+")"}}
 A.KM.prototype={}
 A.oN.prototype={}
 A.a5P.prototype={
-tl(a){var s,r,q,p,o,n,m,l,k,j,i,h,g=null
-try{g=A.aS5(new A.a5Q(a),t.Gu)
-r=g.a
+tl(a){var s,r,q,p,o,n,m,l,k,j,i,h,g=null,f=null
+try{f=A.aS5(new A.a5Q(a),t.Gu)
+r=f.a
 q=r.name
 r=r.options
 p=r.apiKey
-o=r.authDomain
-n=r.databaseURL
-m=r.projectId
+if(p==null)p=g
+if(p==null)p=""
+o=r.projectId
+if(o==null)o=g
+if(o==null)o=""
+n=r.authDomain
+if(n==null)n=g
+m=r.databaseURL
+if(m==null)m=g
 l=r.storageBucket
+if(l==null)l=g
 k=r.messagingSenderId
+if(k==null)k=g
+if(k==null)k=""
 j=r.appId
+if(j==null)j=g
+if(j==null)j=""
 r=r.measurementId
+if(r==null)r=g
 i=$.I6()
-r=new A.KM(q,new A.KP(p,j,k,m,o,n,l,r))
+r=new A.KM(q,new A.KP(p,j,k,o,n,m,l,r))
 $.I8().n(0,r,i)
 return r}catch(h){s=A.au(h)
 if(A.aQ4(t.e.a(s))==="app/no-app")throw A.e(A.aEK(a))
