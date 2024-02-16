@@ -47,6 +47,7 @@ matcher:packages/matcher/
 mdc_web:packages/mdc_web/
 meta:packages/meta/
 mime:packages/mime/
+native_stack_traces:packages/native_stack_traces/
 native_synchronization:packages/native_synchronization/
 node_interop:packages/node_interop/
 node_preamble:packages/node_preamble/
