@@ -51,7 +51,7 @@ const RESOURCES = {"assets/assets/sfx/hash2.mp3": "d26cb7676c3c0d13a78799b3ccac4
 "assets/AssetManifest.bin": "1c43b03166e35cabcb99348a3c4ace21",
 "assets/AssetManifest.bin.json": "8378b65e9206923c522822fbb711b01c",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
-"assets/NOTICES": "9167aeb23bbb57d613d0ad40e81a44a0",
+"assets/NOTICES": "aacc0db3e6d509446dfef361d873f4cc",
 "assets/AssetManifest.json": "4989b9aaf0e6dcb6d8fe079daeef9efd",
 "assets/fonts/MaterialIcons-Regular.otf": "2dc7b66ce02ddbcf332a87a8242b667a",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
@@ -74,8 +74,8 @@ const RESOURCES = {"assets/assets/sfx/hash2.mp3": "d26cb7676c3c0d13a78799b3ccac4
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "c71a09214cb6f5f8996a531350400a9a",
 "manifest.json": "d3e8be9819697c196251e6e977053336",
-"index.html": "0b062918102aaca1a2c3238b02c928d0",
-"/": "0b062918102aaca1a2c3238b02c928d0",
+"index.html": "1860e64da7d0edcc72d6869d1a25da09",
+"/": "1860e64da7d0edcc72d6869d1a25da09",
 "main.dart.js": "5f669f3769413b4e68201a323a077f50"};
 // The application shell files that are downloaded before a service worker can
 // start.
