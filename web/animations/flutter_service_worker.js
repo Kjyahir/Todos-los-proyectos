@@ -32,8 +32,8 @@ const RESOURCES = {"assets/assets/eat_cape_town_sm.jpg": "7d0bc0ee785a2c3cc4064f
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "c71a09214cb6f5f8996a531350400a9a",
 "manifest.json": "68625bab86590a7ebe9e384ad0eedabd",
-"index.html": "8e83952675874784a05c39730fbe5b62",
-"/": "8e83952675874784a05c39730fbe5b62",
+"index.html": "0dfff0e939eb32743dbaf2212d9aafa1",
+"/": "0dfff0e939eb32743dbaf2212d9aafa1",
 "main.dart.js": "f6b207747cc254437050fe667d460fbb"};
 // The application shell files that are downloaded before a service worker can
 // start.
