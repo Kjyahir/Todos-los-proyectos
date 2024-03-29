@@ -9405,7 +9405,7 @@ r=$.aFy()
 s=new A.acE()
 q.n(0,s,r)
 A.iR(s,r,!0)},
-a64:function a64(a){this.c=a},
+a64:function a64(a){this.d=a},
 a65:function a65(){},
 abz:function abz(){},
 ahK:function ahK(){},
@@ -28181,7 +28181,7 @@ A.arS.prototype={
 $1(a){var s=A.f8().b
 if(s==null)s=null
 else{s=s.canvasKitBaseUrl
-if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/a5c24f538d05aaf66f7972fb23959d8cafb9f95a/":s)+a},
+if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/e76c956498841e1ab458577d3892003e553e4f3c/":s)+a},
 $S:93}
 A.as3.prototype={
 $1(a){this.a.remove()
