@@ -26,7 +26,7 @@ const RESOURCES = {"firebase_init.js": "622b108cf1fb4d6527c998381e317752",
 "assets/NOTICES": "72e8d8544904954f9b65b4ca0bf80b42",
 "assets/fonts/MaterialIcons-Regular.otf": "7e97053bd6595b8bdd3d8ca303b236b6",
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
-"main.dart.js": "4f513efed3bf36ba01979ae3d18a5451",
+"main.dart.js": "5fcc24a331e674e3e49951475c668e50",
 "version.json": "ec6a4d1e9d6a65953ce1a6b4ea1041ee",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1"};
