@@ -54,7 +54,6 @@ node_preamble:packages/node_preamble/
 package_config:packages/package_config/
 path:packages/path/
 petitparser:packages/petitparser/
-pointycastle:packages/pointycastle/
 pool:packages/pool/
 protobuf:packages/protobuf/
 pub_semver:packages/pub_semver/
