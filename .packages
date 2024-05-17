@@ -88,6 +88,7 @@ typed_data:packages/typed_data/
 vm_service:packages/vm_service/
 watcher:packages/watcher/
 web:packages/web/
+web_socket:packages/web_socket/
 web_socket_channel:packages/web_socket_channel/
 webkit_inspection_protocol:packages/webkit_inspection_protocol/
 xml:packages/xml/
