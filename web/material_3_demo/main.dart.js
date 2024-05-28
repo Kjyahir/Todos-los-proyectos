@@ -33709,7 +33709,7 @@ A.aEm.prototype={
 $1(a){var s=A.dU().b
 if(s==null)s=null
 else{s=s.canvasKitBaseUrl
-if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/f6344b75dcf861d8bf1f1322780b8811f982e31a/":s)+a},
+if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/55eae6864b296dd9f43b2cc7577ec256e5c32a8d/":s)+a},
 $S:226}
 A.aEA.prototype={
 $1(a){this.a.remove()
